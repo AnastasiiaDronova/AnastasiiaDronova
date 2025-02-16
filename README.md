@@ -56,8 +56,11 @@
 <li>Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion
 </ul>
 
+### Мои проекты:
 
-
-
+|Название проекта| Описание проекта| Стек|
+|----------------|-----------------|-----|
+|Проект 1 E-commerce  (__[github](https://github.com/AnastasiiaDronova/project_1)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
+|Проект 4 A/B-тестирование  (__[github](https://github.com/AnastasiiaDronova/Project_2)__)|Проведение EDA пользлователей и транзакций, проверка гипотез, анализ результатов A/B теста, (тест Хи-квадрат, T-test) |pandas, numpy,seaborn,matplotlib,scipy|
 <!--
 **AnastasiiaDronova/AnastasiiaDronova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

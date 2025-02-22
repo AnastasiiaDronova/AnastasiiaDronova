@@ -1,28 +1,22 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif?cid=ecf05e47tvfcg2kgoy0wa1vmmh9kstwl0q9u2ixanit2t6mn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width='500'/>
+  <img src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif?cid=ecf05e47tvfcg2kgoy0wa1vmmh9kstwl0q9u2ixanit2t6mn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width='300'/>
 </div>
-<div id="header" align="center">
-  <a href="https://t.me/Extranasty">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
-</div>
-<div id="header" align="center">
- Привет, меня зовут Анастасия
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+### <p align="center">Hello, I'm Anastasiia! 👋</p>
+
 </h1>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=10&color=FFFFFF&width=230&height=50&lines=Data+Analyst+%F0%9F%94%A5)](https://git.io/typing-svg)
 </div>
 
 ### :man_technologist: Обо мне:
-  Я Аналитик Данных.
-- :telescope: За числами нахожу данные, которые помогают в развитии продукта.
+  Аналитик Данных | Data analyst | BI analyst
+-  За числами нахожу данные, которые помогают в развитии продукта.
 
-- :seedling: Предпочитаю принимать решения на основе данных.
+-  Предпочитаю принимать решения на основе данных.
 
-- :zap: Совершенствуюсь в бизнес-аналитике.
+-  Совершенствуюсь в бизнес-аналитике.
 
-- :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Extranasty)
+-  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Extranasty)
 
 ---
 
@@ -48,12 +42,12 @@
 
 ### :metal: Умею:
 <ul>
-<li>Проведение А/В тестов и bootstrap, регрессионного и когортного анализа с помощью python
+<li>Проводить А/В тесты и bootstrap, регрессионный и когортный анализ с помощью python
 <li>SQL: вложенные запросы, оконные функции, конструкции case
 <li>Написание ad-hoc запросов
-<li>Работа над проектами в системе контроля версий git
-<li>Формирование дашбордов
-<li>Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion
+<li>Работать над проектами в системе контроля версий git
+<li>Формировать дашбордов
+<li>Расчитывать ключевые метрики продукта: ARPU, ARPPU, retention, conversion
 </ul>
 
 ### Мои проекты:

@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
-  <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" title="PowerBI" alt="Power Bi" height="30" />&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" title="PowerBI" alt="Power Bi" height="30"/>&nbsp;
   
   
 </div>
@@ -47,6 +47,7 @@
 <li>Работать над проектами в системе контроля версий git
 <li>Формировать дашборды 
 <li>Расчитывать ключевые метрики продукта: ARPU, ARPPU, retention, conversion
+<Li> Писать ad-hoc запросы
 </ul>
 
 ### Мои проекты:

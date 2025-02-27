@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/PowerBI-white?logo=PowerBI&style=for-the-badge" title="PowerBI" alt="PowerBI" height="40"/>&nbsp;
   <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" title="PowerBI" alt="Power Bi" height="30"/>&nbsp;
   
   
@@ -56,6 +57,6 @@
 |----------------|-----------------|-----|
 |Проект 1 E-commerce  (__[github](https://github.com/AnastasiiaDronova/project_1)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|**pandas** **seaborn** **matplotlib** **requests**|
 |Проект 2 A/B-тестирование  (__[github](https://github.com/AnastasiiaDronova/Project_2)__)|Проведение EDA пользлователей и транзакций, проверка гипотез, анализ результатов A/B теста, (тест Хи-квадрат, T-test) |**pandas** **numpy** **seaborn** **matplotlib** **scipy**|
-|Проект 3 E-learning  (__[github]([https://github.com/AnastasiiaDronova/project_1](https://github.com/AnastasiiaDronova/project_3))__)|Анализ платформы онлайн образования и успеваемости студентов, когортный анализ, RFM-анализ|**pandas** **seaborn** **matplotlib** **requests** **numpy** **scipy**|
+|Проект 3 E-learning  (__[github](https://github.com/AnastasiiaDronova/project_3)__)|Анализ платформы онлайн образования и успеваемости студентов, когортный анализ, RFM-анализ|**pandas** **seaborn** **matplotlib** **requests** **numpy** **scipy**|
 <!--
 **AnastasiiaDronova/AnastasiiaDronova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

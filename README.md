@@ -56,5 +56,6 @@
 |----------------|-----------------|-----|
 |Проект 1 E-commerce  (__[github](https://github.com/AnastasiiaDronova/project_1)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|**pandas** **seaborn** **matplotlib** **requests**|
 |Проект 2 A/B-тестирование  (__[github](https://github.com/AnastasiiaDronova/Project_2)__)|Проведение EDA пользлователей и транзакций, проверка гипотез, анализ результатов A/B теста, (тест Хи-квадрат, T-test) |**pandas** **numpy** **seaborn** **matplotlib** **scipy**|
+|Проект 3 E-learning  (__[github]([https://github.com/AnastasiiaDronova/project_1](https://github.com/AnastasiiaDronova/project_3))__)|Анализ платформы онлайн образования и успеваемости студентов, когортный анализ, RFM-анализ|**pandas** **seaborn** **matplotlib** **requests** **numpy** **scipy**|
 <!--
 **AnastasiiaDronova/AnastasiiaDronova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

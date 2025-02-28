@@ -55,8 +55,9 @@
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|Проект 1 E-commerce  (__[github](https://github.com/AnastasiiaDronova/project_1)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|**pandas** **seaborn** **matplotlib** **requests**|
-|Проект 2 A/B-тестирование  (__[github](https://github.com/AnastasiiaDronova/Project_2)__)|Проведение EDA пользлователей и транзакций, проверка гипотез, анализ результатов A/B теста, (тест Хи-квадрат, T-test) |**pandas** **numpy** **seaborn** **matplotlib** **scipy**|
-|Проект 3 E-learning  (__[github](https://github.com/AnastasiiaDronova/project_3)__)|Анализ платформы онлайн образования и успеваемости студентов, когортный анализ, RFM-анализ|**pandas** **seaborn** **matplotlib** **requests** **numpy** **scipy**|
+|[Анализ электронного магазина](https://github.com/AnastasiiaDronova/project_1)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ.|**pandas** **seaborn** **matplotlib** **requests**|
+|[Анализ A/B теста подписки а приложении](https://github.com/AnastasiiaDronova/Project_2)|Проведение EDA пользлователей и транзакций, проверка гипотез, анализ результатов A/B теста, (тест Хи-квадрат, T-test). |**pandas** **numpy** **seaborn** **matplotlib** **scipy**|
+|[Анализ платформы онлайн образования](https://github.com/AnastasiiaDronova/project_3)|Анализ платформы онлайн образования и успеваемости студентов, когортный анализ, RFM-анализ.|**pandas** **seaborn** **matplotlib** **requests** **numpy** **scipy**|
+|[Анализ продуктовых метрик мобильного приложения](https://github.com/AnastasiiaDronova/project_4)|Формирование когорт по дате регистрации в приложении, проведение А/B теста для определения значимости изменений в ARPU, ARPPU и CR, формирование группы метрик при изменении механики приложения.|**Pandas** **Numpy** **Scipy** **Seaborn** **Requests**|
 <!--
 **AnastasiiaDronova/AnastasiiaDronova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
